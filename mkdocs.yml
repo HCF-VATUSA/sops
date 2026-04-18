@@ -44,12 +44,6 @@ extra_css:
   - stylesheets/admonitions.css
   - stylesheets/navigation.css
 
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/vHCF-Facility-Team
-      name: vHCF on Github
-
 # Additional Markdown Extensions to use bundled icon sets
 markdown_extensions:
   - meta # Add front matter to a document
@@ -98,4 +92,4 @@ validation:
   unrecognized_links: ignore
 
 copyright: 
- Copyright &copy; 2025 <a href="https://github.com/vHCF-Facility-Team" target="_blank" rel="noopener">vHCF Facility Team</a>
+ Copyright &copy; 2026 <a href="https://github.com/HCF-VATUSA" target="_blank" rel="noopener">Virtual Honolulu Control Facility</a>
