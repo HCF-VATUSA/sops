@@ -1,4 +1,6 @@
 # Facility Training Policy
+!!! danger
+    The Facility Training Order is curently under construction, this information may be out of date or inaccurate. Please reach out to the TA with any questions.
 
 !!! info "Revision Info"
 	- Document Number: HCF 3120.1
