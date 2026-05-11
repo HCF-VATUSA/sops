@@ -7,3 +7,4 @@
 *[RNP]: Required Navigation Performance
 *[AOB]: At or Below
 *[AOA]: At or Above
+*[FAA]: Federal Aviation Administration
