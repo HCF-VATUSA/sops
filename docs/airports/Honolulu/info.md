@@ -3,8 +3,8 @@
 !!! info "Revision Info"
     - Document Number: HNL 7110.1
     - Date: 07 Jul 2025
-    - Revision Version: **I**
-    - Editor: Dirk Thorben Kottenhahn, HCF FE
+    - Revision Version: **J**
+    - Editor: Sebastian Kang, HCF FE
 
 ??? note "Abbreviations"
     - **ASDE-X**: Airport Surface Detection Equipment, X-Band Radar
@@ -34,3 +34,4 @@
 | G | 02 Feb 2024 | Clarification on North and South Tower Operations and Housekeeping to update to new AIRAC | Dirk Thorben Kottenhahn |
 | H | 01 Jan 2025 | Move to Mkdocs | Dirk Thorben Kottenhahn |
 | I | 07 Jul 2025 | Position Overview<br>General Runway Use<br>CD - Preferred Routes<br>CD - Standard IFR Departures<br>CD - VFR Departures<br>CD - Departure Frequencies<br>GC - Standardized Taxi Routes<br>GC - Designated Departure Points<br>LC - Airspace<br>LC - LUAW<br>LC - DVA<br>LC - VFR Pattern Altitudes<br>LC - Closed Pattern Operations<br>LC - Helicopter Operations<br>LC - Runway Configurations<br>ODO | Dirk Thorben Kottenhahn |
+| J | 19 Jun 2026 | Update to missed approach/go around procedures | Sebastian Kang |

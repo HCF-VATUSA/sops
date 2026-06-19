@@ -109,7 +109,9 @@ See Honolulu TRACON for Diagrams.
 
 - Advise aircraft on a **visual** missed approach in East Ops to fly heading 150, climb and maintain 5,000ft and expect vectors to final approach course by contacting TRACON.
 - Advise aircraft on a **visual** missed approach in West Ops to fly heading 180, climb and maintain 4,000ft and expect vectors to final approach course by contacting TRACON.
-- Advise aircraft on an **instrument** missed approach to fly the published missed approach and contact TRACON.
+- With TRACON - Advise aircraft on an Instrument Missed Approach in East Ops to fly heading 220, climb and maintain 5,000, expect vectors to final approach course by contacting TRACON. With No TRACON - Advise aircraft to fly the Published Missed Approach, fly heading 220, climb and maintain 5,000.
+- With TRACON - Advise aircraft on an Instrument Missed Approach in West Ops to fly heading 180, climb and maintain 3,000, expect vectors to final approach course by contact TRACON. With No TRACON - Advise aircraft to fly the Published Missed Approach, fly heading 180, climb and maintain 3,000. 
+
 
 ## 4.9 - Runway Length Remaining
 
