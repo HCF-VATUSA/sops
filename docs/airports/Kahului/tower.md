@@ -64,9 +64,10 @@ The following Departure SIDs are available at PHOG:
 
 ## 4.6 - Missed Approaches/Go-Arounds
 
-1. Advise aircraft on an **instrument** approach to fly the published missed approach and to contact TRACON.
-2. Advise aircraft on a **visual** missed approach in North ops to fly heading 020, climb and maintain 4,000ft and expect vectors to final approach course by contacting TRACON.
-3. Advise aircraft on a **visual** missed approach in South ops to fly heading 185, climb and maintain 6,000ft and expect vectors to final approach course by contacting TRACON.
+- NORTH OPS WITH TRACON – Advise aircraft to fly runway heading, climb and maintain 5,000 and expect vectors to final approach course by contacting TRACON.
+- NORTH OPS WITHOUT TRACON – Advise aircraft to fly the Published Missed Approach, climb and maintain 5,000, runway heading. 
+- SOUTH OPS WITH TRACON – Advise aircraft to fly runway heading, climb and maintain 5,000 and expect vectors to final approach course by contacting TRACON.
+- SOUTH OPS WITHOUT TRACON – Advise aircraft to fly the Published Missed Approach, climb and maintain 5,000 on runway heading.
 
 ## 4.7 - Closed Traffic
 
