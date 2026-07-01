@@ -29,8 +29,8 @@ The following Departure SIDs are available at PHOG:
 
 | SID | Initial Altitude |
 |---|:---:|
-| BEACH#, HIAKA# (RNAV), NPLII# (RNAV), ONOHI#, PUHII# (RNAV), STACY#, SWEEP# | 6,000 |
-| MAUI# | 7,000 |
+| BEACH#, HIAKA# (RNAV), NPLII# (RNAV), PUHII# (RNAV), STACY#, SWEEP# | 6,000 |
+| MAUI#,  ONOHI#, | 7,000 |
 
 1. LC will provide separation for all aircraft in the LC airspace and provide initial separation between all successive departures.
 2. LC will request departure releases from TRACON for all IFR departures.
