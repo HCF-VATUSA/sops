@@ -3,7 +3,7 @@
 !!! info "Revision Info"
     - Document Number: OGG 7110.2
     - Date: 07 Jul 2025
-    - Revision Version: **G**
+    - Revision Version: **H**
     - Editor: Sebastian Kang, HCF FE
 
 ## Record of Revisions
@@ -17,3 +17,4 @@
 | E | 01 Jan 2025 | Move to Mkdocs | Dirk Thorben Kottenhahn |
 | F | 07 Jul 2025 | Narrowband Operations<br>Tower Radar<br>Missed Approach Vectors<br>General Arrival Procedures | Dirk Thorben Kottenhahn |
 | G | 28 Mar 2026 | Housekeeping | Sebastian Kang |
+| H | 01 Jul 2026 | Updates to departure procedures | Sebastian Kang |
