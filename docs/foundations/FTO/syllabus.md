@@ -347,27 +347,34 @@ When issuing a clearance for takeoff, first state the runway number, followed by
 
 ##### Wake Turbulence
 
-Apply wake turbulence procedures to an aircraft operating behind another aircraft when wake turbulence separation is required. Separate aircraft taking off by:
+!!! note
+    This is a simplified version of Wake Turbulence, for full information on Wake Turbulence, see [Consolidated Wake Turbulence](../../references/Consolidated%20Wake%20Turbulence.md). You may also reference the 7110.65. 
 
-1. Heavy, large, or small behind super — 3 minutes.
-2. Heavy, large, or small behind heavy — 2 minutes.
-3. Small behind B757 — 2 minutes.
+**Aircraft taking off**
+Apply wake turbulence procedures to an aircraft operating behind another aircraft when wake turbulence separation is required. Separate aircarft take off by:
 
-**Same Runway Separation** – Separate a departing aircraft from a preceding departing or arriving aircraft using the same runway by ensuring that it does not begin takeoff roll until:
+Heavy, large, or small behind super - 3 minutes
 
-1. The other aircraft has departed and crossed the runway end or turned to avert any conflict.
-2. A preceding landing aircraft is clear of the runway.
-    - When only Category I aircraft are involved — 3,000 feet.
-    - When a Category I aircraft is preceded by a Category II aircraft — 3,000 feet.
-    - When either the succeeding or both are Category II aircraft — 4,500 feet.
-    - When either is a Category III aircraft — 6,000 feet.
-    - When the succeeding aircraft is a helicopter, visual separation may be applied instead of using distance minima.
+Heavy. large or small behind heavy - 2 minutes
 
-Aircraft categories:
+Small behind B757 - 2 minutes
 
-- **Category I** – Small single-engine propeller-driven aircraft weighing 12,500 lbs. or less and all helicopters.
-- **Category II** – Small twin-engine propeller-driven aircraft weighing 12,500 lbs. or less.
-- **Category III** – All other aircraft.
+**Aircraft landing**
+Air Traffic Wake Turbulence Separations
+Because of the possible effects of wake turbulence, controllers are required to apply no less than minimum required separation to all aircraft operating behind a Super or Heavy, and to Small aircraft operating behind a B757, when aircraft are IFR; VFR and receiving Class B, Class C, or TRSA airspace services; or VFR and being radar sequenced.
+Separation is applied to aircraft operating directly behind a super or heavy at the same altitude or less than 1,000 feet below, and to small aircraft operating directly behind a B757 at the same altitude or less than 500 feet below:
+
+(a) Heavy behind super - 6 miles.
+
+(b) Large behind super - 7 miles.
+
+(c) Small behind super - 8 miles.
+
+(d) Heavy behind heavy -4 miles.
+
+(e) Small/large behind heavy - 5 miles.
+
+(f) Small behind B757 - 4 miles.
 
 ##### SVFR Operations
 
