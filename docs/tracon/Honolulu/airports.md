@@ -5,6 +5,7 @@
 | **PHNL** | Daniel K Inouye | 24/7  |
 | **PHJR** | Kalaeloa (John Rogers Field) | 1600-0800z (0600-2200lcl)  |
 | **PHIK** | Hickam AFB | Reference PHNL |
-| PHHI | Wheeler Army Field | Uncontrolled |
+| **PHHI** | Wheeler Army Field | 1730-0900z |
+| PHDH | Kawaihapai Airfield (Dillingham) | Uncontrolled |
 
 <p style="text-align: center;">Bold designates a controlled airport</p>
