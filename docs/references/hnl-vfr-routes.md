@@ -1,10 +1,8 @@
 # Honolulu VFR Routes
 
 !!! info "Revision Info"
-    - Document Number: HCF 7110.5
-    - Date: 11 May 2026
-    - Revision Version: **A**
-    - Editor: Sebastian Kang, HCF FE
+    - Current as of AIRAC 2607
+    - Edited by Sebastian Kang, HCF FE
 
 Below are the VFR departure and arrival routes out of Honolulu. These are sourced from the FAA Pacific Chart Supplement.
 
