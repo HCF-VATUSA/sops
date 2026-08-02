@@ -11,4 +11,4 @@
 ## 3.2 - Departure Flow Description
 
 1. Once departing aircraft are clear of conflicting traffic, departing aircraft will be instructed to climb to 15,000 feet (or cruise if lower) and directed on course.
-2. Departures should be handed off to ENROUTE prior to reaching 15,000 feet and/ or 5 miles from TRACON boundary.
+2. Departures should be handed off to ENROUTE prior to reaching 14,000 feet and/ or 5 miles from TRACON boundary.
