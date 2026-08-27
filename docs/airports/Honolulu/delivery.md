@@ -8,7 +8,12 @@
 
 1. VFR aircraft remaining in the pattern shall receive clearance INTO the Bravo airspace at altitude of 1,500 or below.
 2. VFR aircraft departing the Class Bravo shall receive clearance OUT of the Bravo airspace and maintain VFR at or below 3000.
-    1. VFR Helicopter see below.
+
+!!! note "NOTAM"
+    Class Bravo airspace does not exist when no radar controller is online.
+
+
+1. VFR Helicopter see below.
 3. VFR aircraft not remaining with the pattern and requesting flight following will be given the appropriate departure frequency
 4. During RWY 4/8 configuration, assign the following:
     1. Shoreline Departure. Except for float planes departing the sealanes, the Shoreline departure is not available for fixed wing aircraft when LC2 is decombined.
