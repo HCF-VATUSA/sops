@@ -937,6 +937,10 @@ STARs can make an En Route controller's job easier.
 
 This lesson will be repeated until the Instructor or Mentor feels that the student is ready for their rating check-out. After demonstrating understanding and operational competence, the controller may receive the Tier 2 endorsement authorizing independent control for HCF CTR.
 
+#### C1 Lesson 2 - Final Preperation
+
+Instructor or Mentor will coordinate one more live session and if student appears ready, issue solo endorsement. This lesson should be repeated until student is ready for a solo endorsement.
+
 #### Tier 2 Familiarization
 
 !!! note
@@ -988,7 +992,3 @@ A controller in Honolulu Control Facility seeking certification on Daniel K. Ino
 - Simultaneous runway operations
 - Military coordination
 - Oceanic and En Route interfaces
-
-#### C1 Lesson 2 - Final Preperation
-
-Instructor or Mentor will coordinate one more live session and if student appears ready, issue solo endorsement. This lesson should be repeated until student is ready for a solo endorsement.
