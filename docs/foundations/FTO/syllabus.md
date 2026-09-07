@@ -988,3 +988,7 @@ A controller in Honolulu Control Facility seeking certification on Daniel K. Ino
 - Simultaneous runway operations
 - Military coordination
 - Oceanic and En Route interfaces
+
+#### C1 Lesson 2 - Final Preperation
+
+Instructor or Mentor will coordinate one more live session and if student appears ready, issue solo endorsement. This lesson should be repeated until student is ready for a solo endorsement.
