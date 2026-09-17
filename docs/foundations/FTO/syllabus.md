@@ -792,7 +792,9 @@ Even when visual separation is applied, controllers must issue wake turbulence a
 
 #### S3 Lesson 3 – Sweatbox and Live
 
-This lesson will start as a Sweatbox scenario. The Mentor/Instructor will run this lesson, handling IFR and VFR. The objective of this lesson is to familiarize the CIT/student with beginning to work in a radar environment. After the INS/MTR feels that the CIT/student is comfortable, the sessions will take place on the live network. This lesson will be repeated until the Instructor or Mentor feels that the student is ready for a Solo Endorsement at PHNL.
+This lesson will start as a Sweatbox Scenario at PHOG Unrestricted.  The Mentor/Instructor will run this lesson, handling IFR and VFR. The objective of this lesson is to familiarize the CIT/student with beginning to work in a radar environment. After the INS/MTR feels that the CIT/student is comfortable, the sessions will take place on the live network. 
+
+In subsequent sessions, the CIT/student will move on to Tier 2 at PHNL.  This lesson will, again, start as a Sweatbox session.  After the INS/MTR feels the CIT/student is comfortable, the sessions will take place on the live network.  This lesson will be repeated until the Instructor or Mentor feels that the student is ready for a Solo Endorsement at PHNL.
 
 ##### Checklist Items
 
