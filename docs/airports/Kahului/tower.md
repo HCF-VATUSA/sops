@@ -81,7 +81,7 @@ The following Departure SIDs are available at PHOG:
 
 1. The local controller may initiate an intersection departure or authorize one if a pilot requests.
 
-| RWY 2 | RWY 20 | RWY 5 | RWY 25 |
+| RWY 2 | RWY 20 | RWY 5 | RWY 23 |
 |:---|:---|:---|:---|
 | From D - 6200'<br>From E - 4850'<br>From B – 4850'<br>From F – 3450' | From 5/23 – 6050'<br>From K – 5450'<br>From G – 5250'<br>From F – 3500' | From B – 3900'<br>From A – 1750' | From 20 – 4100'<br>From A – 3200' |
 
