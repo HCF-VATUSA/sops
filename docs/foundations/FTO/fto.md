@@ -52,7 +52,7 @@ ZUA is unique due to its significant military presence and support of large-scal
 | **Trainer** | A member designated as an **Instructor**, **Mentor**, **Probationary Instructor**, or **Mentor-in-Training**. |
 | **Mentor** | A trainer who provides theory instruction, practical training, and live monitoring, and who may recommend students for rating examinations. |
 | **Instructor** | A trainer holding an **I1** or **I3** rating who may conduct rating examinations, assign written exams, and assist with training development. |
-| **Training Administrator (TA)** | The individual officially designated by **HCF** and **VATUSA** to oversee training administration and who holds an **I3** rating. |
+| **Training Administrator (TA)** | The individual officially designated by **HCF** and **VATUSA** to oversee training administration and who holds a C1 rating but preferably an I1 rating. The controller shall be promoted to I3 upon appointment to the position. |
 | **Solo Endorsement** | A temporary certification allowing a controller to operate a position while training toward the next rating, in accordance with VATUSA policy. |
 
 ## Controller Certifications
